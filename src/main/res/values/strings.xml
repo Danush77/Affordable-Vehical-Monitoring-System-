@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Log Check App v1</string>
+    <string name="title_activity_login">login</string>
+</resources>
